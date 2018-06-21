@@ -1,3 +1,5 @@
+package GreedyAlgorithm;
+
 import java.util.*;
 
 public class MaxAdvertisementRevenue {
